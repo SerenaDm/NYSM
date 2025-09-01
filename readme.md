@@ -33,3 +33,7 @@ For specific parameter values, please refer to the `Avatar_Parameter.txt`. All t
 ## Mesh Folder
 
 This folder contains Unity-compatible meshes of the `.fbx` avatar files. Available meshes include trousers, shoes, sweaters, skin, eyes, hair, lashes, and brows. Each mesh can be directly dragged and dropped onto the corresponding part of the avatar.
+
+## Images
+
+Contains a preview of the Avatars and body volumes.
