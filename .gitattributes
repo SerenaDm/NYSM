@@ -1,3 +1,4 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 Male/*.fbx filter=lfs diff=lfs merge=lfs -text
 Female/*.fbx filter=lfs diff=lfs merge=lfs -text
+*8K.png filter=lfs diff=lfs merge=lfs -text
